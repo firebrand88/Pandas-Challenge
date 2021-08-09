@@ -15,28 +15,19 @@ Analysis includes:
 
 ### Purchasing Analysis
 * Number of Unique items
- 
 * Average Purchase Price
- 
 * Total Number of Purchases
- 
 * Total Revenue
 
 ### Gender Demographics
 * Percentage and Count of Male Players
- 
 * Percentage and Count of Female Players
- 
 * Percentage and Count of Other / Non-Discloded Players
 
 ### Purchasing Analysis by Gender
- 
 * Purchase Count by Gender
- 
 * Average Purchase Price by Gender
- 
 * Total Purchase Value by Gender
- 
 * Average Purchase Total per Person by Gender
 
 ### Age Demographics
