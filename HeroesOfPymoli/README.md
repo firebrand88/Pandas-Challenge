@@ -6,30 +6,30 @@ In this game, players can purchase in-game items which is a primary revenue stre
 
 As part of this analysis, I provide the company with summary data to help them understand how players are interacting with the game and what are the most profitable features of the game.
 
-##Analysis
+## Analysis
 
 Analysis includes:
 
-###Player Count
-*Total Number of Players
+### Player Count
+* Total Number of Players
 
 ### Purchasing Analysis
-*Number of Unique items
+* Number of Unique items
  
-*Average Purchase Price
+* Average Purchase Price
  
-*Total Number of Purchases
+* Total Number of Purchases
  
-*Total Revenue
+* Total Revenue
 
-###Gender Demographics
+### Gender Demographics
 * Percentage and Count of Male Players
  
 * Percentage and Count of Female Players
  
 * Percentage and Count of Other / Non-Discloded Players
 
-###Purchasing Analysis by Gender
+### Purchasing Analysis by Gender
  
 * Purchase Count by Gender
  
@@ -39,49 +39,49 @@ Analysis includes:
  
 * Average Purchase Total per Person by Gender
 
-###Age Demographics
+### Age Demographics
 
 The below each broken into bins of 4 years (i.e. <10, 10-14, 15-19, etc.)
 
-###Purchase Count
-Average Purchase Price
-Total Purchase Value
-Average Purchase Total per Person by Age Group
+### Purchase Count
+* Average Purchase Price
+* Total Purchase Value
+* Average Purchase Total per Person by Age Group
 
-###Purchasing Analysis (age)
+### Purchasing Analysis (age)
 
 The below each broken into bins of 4 years (i.e. <10, 10-14, 15-19, etc.)
 
-###Purchase Count
-Average Purchase Price
-Total Purchase Value
-Average Purchase Total per Person by Age
+### Purchase Count
+* Average Purchase Price
+* Total Purchase Value
+* Average Purchase Total per Person by Age
 
-###Top Spenders
+### Top Spenders
 
 Identify the the top 5 spenders in the game by total purchase value, then list (in a table):
 
-SN
-Purchase Count
-Average Purchase Price
-Total Purchase Value
+* SN
+* Purchase Count
+* Average Purchase Price
+* Total Purchase Value
 
-###Most Popular Items
+### Most Popular Items
 
 Identify the 5 most popular items by purchase count, then list (in a table):
 
-Item ID
-Item Name
-Purchase Count
-Item Price
-Total Purchase Value
+* Item ID
+* Item Name
+* Purchase Count
+* Item Price
+* Total Purchase Value
 
-###Most Profitable Items
+### Most Profitable Items
 
 Identify the 5 most profitable items by total purchase value, then list (in a table):
 
-Item ID
-Item Name
-Purchase Count
-Item Price
-Total Purchase Value
+* Item ID
+* Item Name
+* Purchase Count
+* Item Price
+* Total Purchase Value
